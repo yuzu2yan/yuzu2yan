@@ -3,7 +3,9 @@
 ## 👋Hi there!
 - 👩‍💻 I'm Yuzu, a robotics engineer.
 - 🌱 I’m currently learning Digital-Twin & Reinforcement Learnig!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
+- 🏠 Homepage: https://yuzu2yan.github.io/#contact
+- 💬 Qiita: https://qiita.com/Yuzu2yan
 <br>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
