@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Digital-Twin & Reinforcement Learnig!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
 - 🏠 Homepage: https://yuzu2yan.github.io/
-- 📃 Wantedly: https://www.wantedly.com/id/joe_kohzen
 - 💬 Qiita: https://qiita.com/Yuzu2yan
 <br>
 
