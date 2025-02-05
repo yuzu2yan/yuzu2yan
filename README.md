@@ -1,18 +1,23 @@
 <img src="https://komarev.com/ghpvc/?username=yuzu2yan" />
 
 ## 👋Hi there!
-- 👩‍💻 I'm Yuzu, a robotics engineer.
-- 🌱 I’m currently learning Digital-Twin & Reinforcement Learnig!
+- 👩‍💻 I'm Yuzu, a software engineer and designer!
+- 🌱 I’m currently learning digital twin, world models and robotics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
-- 🏠 Homepage: https://yuzu2yan.github.io/
+- 🏠 Profile: https://yuzu2yan.github.io/
 - 💬 Qiita: https://qiita.com/Yuzu2yan
 <br>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
+### Programming
+<img alt="programming" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,c,cpp,java,python" />
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,react,next,c,cpp,java,python,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,git,github,gitlab,linux,ubuntu,docker,firebase" />
-<br>
+### Technologies
+<img alt="technologies" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,nextjs,nodejs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,git,linux,ubuntu,docker,mysql,postgres,firebase,mongodb" />
+
+### Design
+<img alt="design" src="https://skillicons.dev/icons?theme=light&perline=7&i=latex,xd,ai,ps,figma" />
 
 ## 🏃‍♀️ Activities
 
