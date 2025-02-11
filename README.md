@@ -13,7 +13,7 @@
 <img alt="programming" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,php,c,cpp,java,python&perline=7" />
 
 ### Technologies
-<img alt="technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,langchain,anaconda,cuda,git,linux,docker,mysql,postgres,firebase,mongodb&perline=7" />
+<img alt="technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,nextjs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,langchain,anaconda,cuda,firebase,mongodb,git,linux,docker&perline=7" />
 
 ### Design
 <img alt="design" src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,figma" />
