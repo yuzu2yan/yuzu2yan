@@ -8,16 +8,15 @@
 - 💬 Qiita: https://qiita.com/Yuzu2yan
 <br>
 
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Programming
-<img alt="programming" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,ts,php,c,cpp,java,python" />
+<img alt="programming" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,php,c,cpp,java,python&perline=7" />
 
 ### Technologies
-<img alt="technologies" src="https://skillicons.dev/icons?theme=light&perline=7&i=react,nextjs,nodejs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,git,linux,ubuntu,docker,mysql,postgres,firebase,mongodb" />
+<img alt="technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,nodejs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,langchain,anaconda,cuda,git,linux,docker,mysql,postgres,firebase,mongodb&perline=7" />
 
 ### Design
-<img alt="design" src="https://skillicons.dev/icons?theme=light&perline=7&i=latex,xd,ai,ps,figma" />
+<img alt="design" src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,figma" />
 
 ## 🏃‍♀️ Activities
 
