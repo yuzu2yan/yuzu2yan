@@ -10,7 +10,7 @@
 
 ## 🌱 Skills
 ### Programming
-<img alt="programming" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,php,c,cpp,java,python&perline=7" />
+<img alt="programming" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,php,c,cpp,rust,java,python&perline=7" />
 
 ### Technologies
 <img alt="technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,nextjs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,langchain,anaconda,cuda,aws,firebase,mongodb,git,docker,linux&perline=7" />
