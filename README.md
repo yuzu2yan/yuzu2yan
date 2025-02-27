@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning digital twin, world models and robotics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
 - 🏠 Profile: https://yuzu2yan.github.io/
-- 💬 Qiita: https://qiita.com/Yuzu2yan
-<br>
 
 ## 🌱 Skills
 ### Programming
