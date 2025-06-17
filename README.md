@@ -14,7 +14,7 @@
 <img alt="technologies" src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,nextjs,ros,arduino,raspberrypi,opencv,unity,tensorflow,pytorch,jupyter,huggingface,langchain,anaconda,cuda,aws,sqlite,mysql,postgresql,firebase,mongodb,pinecone,git,docker,linux&perline=7" />
 
 ### Design
-<img alt="design" src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,figma,canva" />
+<img alt="design" src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,premiere,figma,canva" />
 
 ## 🏃‍♀️ Activities
 
