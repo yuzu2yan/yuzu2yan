@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=yuzu2yan" />
 
 ## 👋Hi there!
-- 👩‍💻 I'm Yuzu, a software engineer and designer!
+- 👩‍💻 I'm Yuzu, a software engineer and creator!
 - 🌱 I’m currently learning digital twin, world models and robotics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joe-kohzen-2626872b6/)
 - 🏠 Profile: https://yuzu2yan.github.io/
