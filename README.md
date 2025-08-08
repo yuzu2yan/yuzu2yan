@@ -4,7 +4,7 @@
 - 👩‍💻 I'm Yuzu, a software engineer and creator!
 - 🌱 I’m currently learning digital twin, world models and robotics.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yuzu2yan/)
-- 🏠 Profile: https://yuzu2yan.github.io/
+- 📝 Portfolio: https://yuzu2yan.github.io/
 
 ## 🌱 Skills
 ### Programming
