@@ -22,7 +22,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzu2yan&layout=compact&hide_border=True&langs_count=8&hide=jupyter%20notebook,cmake,makefile,shell,html,css,powershell)](https://github.com/yuzu2yan/readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzu2yan&hide_border=True&theme=graywhite)](https://github.com/yuzu2yan/readme-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuzu2yan&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=yuzu2yan&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <!-- 
