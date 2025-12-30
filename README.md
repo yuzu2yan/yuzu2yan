@@ -15,6 +15,7 @@
 ### Design
 <img alt="design" src="https://go-skill-icons.vercel.app/api/icons?i=illustrator,photoshop,premiere,figma" />
 
+<!--
 ## 🏃‍♀️ Activities
 
 <p align="left">
@@ -24,11 +25,5 @@
 [![trophy](https://trophygh.kolioaris.xyz/?username=yuzu2yan&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
-<!-- 
-[![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 -->
-![](https://raw.githubusercontent.com/yuzu2yan/yuzu2yan/output/github-contribution-grid-snake.svg)
+
